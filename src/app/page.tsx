@@ -40,19 +40,19 @@
 // id: "syntax-void",
 // name: "Syntax Void Blog Website",
 // description: "A developer blog showcasing tutorials and deep dives.",
-// url: "https://goshield-fe.vercel.app/blog",
+// url: "https://goshield.vercel.app/blog",
 // },
 // {
 // id: "amazon-clone",
 // name: "Amazon Website",
 // description: "High-traffic e-commerce demo to validate mitigations.",
-// url: "https://goshield-fe.vercel.app/amazon",
+// url: "https://goshield.vercel.app/amazon",
 // },
 // {
 // id: "sih-site",
 // name: "Smart India Hackathon Website",
 // description: "Event portal for SIH with public-facing services.",
-// url: "https://goshield-fe.vercel.app/sih",
+// url: "https://goshield.vercel.app/sih",
 // },
 // ];
 
@@ -538,25 +538,25 @@ const protectedSites = [
     id: "syntax-void",
     name: "Syntax Void Blog Website",
     description: "A developer blog showcasing tutorials and deep dives.",
-    url: "https://goshield-fe.vercel.app/blog",
+    url: "https://goshield.vercel.app/blog",
   },
   {
     id: "amazon-clone",
     name: "Amazon Website",
     description: "High-traffic e-commerce demo to validate mitigations.",
-    url: "https://goshield-fe.vercel.app/amazon",
+    url: "https://goshield.vercel.app/amazon",
   },
   {
     id: "sih-site",
     name: "Smart India Hackathon Website",
     description: "Event portal for SIH with public-facing services.",
-    url: "https://goshield-fe.vercel.app/sih",
+    url: "https://goshield.vercel.app/sih",
   },
   {
     id: "drdo-site",
     name: "DRDO Website",
     description: "Event portal for SIH with public-facing services.",
-    url: "https://goshield-fe.vercel.app/drdo",
+    url: "https://goshield.vercel.app/drdo",
   },
 ];
 

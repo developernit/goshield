@@ -32,6 +32,7 @@ body {
   stroke: white !important;
 }
 
-/* *{
-  border: 1px solid red;
-} */
+*{
+  /* border: 1px solid red; */
+  overflow-x: hidden;
+}
